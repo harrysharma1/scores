@@ -19,4 +19,4 @@ $ pip install -U matplotlib
 
 ## What it looks like right now
 
-[plot](https://github.com/harrysharma1/scores/blob/main/Figure_1.png)
+![plot](https://github.com/harrysharma1/scores/blob/main/Figure_1.png)
