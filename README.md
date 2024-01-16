@@ -6,7 +6,7 @@ How productive I felt through out the year
 
 ## How to run
 
-```bash
+```
 $ virtualenv venv
 created virtual environment CPython3.10.13.final.0-64 in 343ms
   creator CPython3macOsBrew(dest=/Users/harrysharma/Desktop/.projects/py-web-browser-practice/venv, clear=False, no_vcs_ignore=False, global=False)
