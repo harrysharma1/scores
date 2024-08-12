@@ -2,7 +2,7 @@
 
 ## What this is:
 
-How productive I felt through out the year
+This is a subjective productivity ranking of how productive I felt through out my placement year starting from 06/11/2023.
 
 ## How to run
 
